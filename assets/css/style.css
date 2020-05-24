@@ -37,5 +37,18 @@ input[type=submit]{
 }
 
 .display{
+    width: 50%;
+    margin-left: 25%;
     text-align: center;
+    background: gray;
+   height: 40vh;
+   margin-top: -7%;
+   /* line-height: 20px; */
+}
+h1{
+    color: maroon;
+}
+p{
+    color: greenyellow;
+    font-size: 25px;
 }
